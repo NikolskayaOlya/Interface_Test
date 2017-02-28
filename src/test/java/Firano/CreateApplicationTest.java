@@ -9,7 +9,7 @@ import settings.CreateJson;
 /**
  * Created by o.nikolskaya on 27.02.2017.
  */
-public class CreateApplication {
+public class CreateApplicationTest {
 
     @Test
     public void sendPostRequest () {
