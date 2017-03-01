@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<!--verbose = "1" -->
+<suite name="CityAds-Interface" verbose = "1">
+    <!--<parameter name = "" suit = ""/>-->
+    <test name = "Send application to Firano" preserve-order = "true">
+       <classes>
+           <class name = "Firano.CreateApplicationTest"/>
+       </classes>
+
+    </test>
+</suite>
