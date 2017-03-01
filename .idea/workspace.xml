@@ -28,28 +28,41 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="94">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateAccountTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CreateAccountTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/publisher/CreateAccountTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetupDriver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/settings/SetupDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,10 +103,11 @@
         <option value="$PROJECT_DIR$/src/main/java/settings/State.java" />
         <option value="$PROJECT_DIR$/src/main/java/settings/CreatPost.java" />
         <option value="$PROJECT_DIR$/src/test/java/Firano/CreateApplication.java" />
-        <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Firano/CreateApplicationTest.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/publisher/CreateAccountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/settings/SetupDriver.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -220,6 +234,62 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Firano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interface_Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interface_Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interface_Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interface_Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="settings" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -661,35 +731,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_o_nikolskaya_Interface_Test_testng_xml - 2017.02.28 at 17h 33m 40s.xml">
-      <configuration name="C:/Users/o.nikolskaya/Interface_Test/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_o_nikolskaya_Interface_Test_testng_xml - 2017.02.28 at 17h 35m 20s.xml">
       <configuration name="C:/Users/o.nikolskaya/Interface_Test/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateApplication - 2017.02.27 at 18h 15m 12s.xml">
-      <configuration name="CreateApplication" configurationId="TestNG" />
+    <history-entry file="C__Users_o_nikolskaya_Interface_Test_testng_xml - 2017.03.01 at 15h 46m 53s.xml">
+      <configuration name="C:/Users/o.nikolskaya/Interface_Test/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateApplicationTest - 2017.02.28 at 14h 36m 40s.xml">
-      <configuration name="CreateApplicationTest" configurationId="TestNG" />
+    <history-entry file="C__Users_o_nikolskaya_Interface_Test_testng_xml - 2017.03.01 at 16h 00m 21s.xml">
+      <configuration name="C:/Users/o.nikolskaya/Interface_Test/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateApplicationTest - 2017.02.28 at 14h 39m 46s.xml">
-      <configuration name="CreateApplicationTest" configurationId="TestNG" />
+    <history-entry file="C__Users_o_nikolskaya_Interface_Test_testng_xml - 2017.03.01 at 16h 02m 25s.xml">
+      <configuration name="C:/Users/o.nikolskaya/Interface_Test/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateApplicationTest - 2017.02.28 at 16h 04m 12s.xml">
-      <configuration name="CreateApplicationTest" configurationId="TestNG" />
+    <history-entry file="C__Users_o_nikolskaya_Interface_Test_testng_xml - 2017.03.01 at 16h 03m 24s.xml">
+      <configuration name="C:/Users/o.nikolskaya/Interface_Test/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SendPost - 2017.02.25 at 23h 48m 03s.xml">
-      <configuration name="SendPost" configurationId="TestNG" />
+    <history-entry file="C__Users_o_nikolskaya_Interface_Test_testng_xml - 2017.03.01 at 16h 04m 16s.xml">
+      <configuration name="C:/Users/o.nikolskaya/Interface_Test/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SendPost - 2017.02.25 at 23h 48m 52s.xml">
-      <configuration name="SendPost" configurationId="TestNG" />
+    <history-entry file="C__Users_o_nikolskaya_Interface_Test_testng_xml - 2017.03.01 at 16h 04m 49s.xml">
+      <configuration name="C:/Users/o.nikolskaya/Interface_Test/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SendPost - 2017.02.25 at 23h 49m 46s.xml">
-      <configuration name="SendPost" configurationId="TestNG" />
+    <history-entry file="C__Users_o_nikolskaya_Interface_Test_testng_xml - 2017.03.01 at 16h 22m 44s.xml">
+      <configuration name="C:/Users/o.nikolskaya/Interface_Test/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SendPost - 2017.02.25 at 23h 53m 14s.xml">
-      <configuration name="SendPost" configurationId="TestNG" />
+    <history-entry file="C__Users_o_nikolskaya_Interface_Test_testng_xml - 2017.03.01 at 16h 23m 58s.xml">
+      <configuration name="C:/Users/o.nikolskaya/Interface_Test/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_o_nikolskaya_Interface_Test_testng_xml - 2017.03.01 at 16h 40m 11s.xml">
+      <configuration name="C:/Users/o.nikolskaya/Interface_Test/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -966,16 +1036,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Firano/CreateApplicationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/settings/CreatPost.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
@@ -986,29 +1046,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Firano/CreateApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="417">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/publisher/CreateAccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/settings/SetupDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

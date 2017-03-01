@@ -10,4 +10,11 @@
        </classes>
 
     </test>
+
+    <test name = "open browser">
+        <classes>
+            <class name="publisher.CreateAccountTest"/>
+        </classes>
+    </test>
+
 </suite>
