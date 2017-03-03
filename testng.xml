@@ -11,15 +11,9 @@
 
     </test>
 
-    <test name = "open browser">
-        <classes>
-            <class name="publisher.CreateAccountTest"/>
-        </classes>
-    </test>
-
     <test name = "open traffic channels">
         <classes>
-            <class name="manager.traffic_channels.AddChannel"/>
+            <class name="manager.traffic_channels.ButtonAddChannelTest"/>
         </classes>
     </test>
 

@@ -1,4 +1,4 @@
-package manager.pages;
+package manager.pages.channel;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -12,22 +12,14 @@ import ru.yandex.qatools.htmlelements.loader.HtmlElementLoader;
 public class ChannelsPage {
     WebDriver driver;
 
-
-    @FindBy(id = "ember1280")
+    @FindBy(xpath = "//div[@class='fr']/a")
     public Button add_button;
 
     public ChannelsPage(WebDriver driver){
         this.driver = driver;
-      HtmlElementLoader.populatePageObject(true, driver);
+        HtmlElementLoader.populatePageObject(this, driver);
     }
-
     public void goToAddPage(){
-        add_button.click();
+        this.add_button.click();
     }
-
-    public void add(){
-        goToAddPage();
-    }
-
-
 }
