@@ -11,7 +11,7 @@ public class SetupDriver {
 
     public WebDriver setDriver(){
 
-        WebDriver driver = null;
+        WebDriver driver ;
         String browser = System.getProperty("browser");
 
         switch(browser){

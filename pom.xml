@@ -40,6 +40,12 @@
             <version>20090211</version>
         </dependency>
 
+        <dependency>
+            <groupId>ru.yandex.qatools.htmlelements</groupId>
+            <artifactId>htmlelements-java</artifactId>
+            <version>1.17</version>
+        </dependency>
+
     </dependencies>
 
     <build>
@@ -57,6 +63,8 @@
                     <systemPropertyVariables>
                         <browser>chrome</browser>
                         <webdriver.chrome.driver>C:/Users/o.nikolskaya/Desktop/programs/chromedriver.exe</webdriver.chrome.driver>
+
+                        <baseUrl>http://beta.cityads.com.br</baseUrl>
 
                         <publisher_user>o.nikolskaya@cityads.com</publisher_user>
                         <publisher_password>Nikolskaya</publisher_password>

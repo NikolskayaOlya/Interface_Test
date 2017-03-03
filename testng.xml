@@ -17,4 +17,10 @@
         </classes>
     </test>
 
+    <test name = "open traffic channels">
+        <classes>
+            <class name="manager.traffic_channels.AddChannel"/>
+        </classes>
+    </test>
+
 </suite>
