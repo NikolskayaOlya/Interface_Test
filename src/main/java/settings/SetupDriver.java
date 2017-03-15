@@ -9,7 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  */
 public class SetupDriver {
 
-    public WebDriver setDriver(){
+    public WebDriver getDriver(){
 
         WebDriver driver ;
         String browser = System.getProperty("browser");

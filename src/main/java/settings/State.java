@@ -4,6 +4,7 @@ import settings.ConnectDB;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Statement;
 
 /**
  * Created by o.nikolskaya on 24.02.2017.
@@ -19,9 +20,12 @@ public class State {
         ResultSet result;
 
         ConnectDB conDB = new ConnectDB(password, user, db_url);
+        Statement stmt;
         conDB.connectDB();
+
         result = conDB.getQueruResult(sql);
 
+        System.out.println(result);
         while(result.next()){
             id = result.getInt("id");
             bank_application_id = result.getInt("bank_application_id");
@@ -30,6 +34,8 @@ public class State {
 
         System.out.println("id = " + id);
         System.out.println("bank_application_id = " + bank_application_id);
+
+
 
     }
 }

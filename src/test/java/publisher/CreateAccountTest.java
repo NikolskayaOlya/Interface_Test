@@ -17,7 +17,7 @@ public class CreateAccountTest {
 
     @BeforeTest
     public void setupWebDriver(){
-        driver = (new SetupDriver()).setDriver();
+        driver = (new SetupDriver()).getDriver();
     }
 
     @Test(description = "open browser")

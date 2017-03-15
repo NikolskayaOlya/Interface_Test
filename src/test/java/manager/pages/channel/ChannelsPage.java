@@ -11,13 +11,19 @@ import ru.yandex.qatools.htmlelements.loader.HtmlElementLoader;
  */
 public class ChannelsPage {
     WebDriver driver;
-
-    @FindBy(xpath = "//div[@class='fr']/a")
-    public Button add_button;
+    String baseUrl = System.getProperty("baseUrl");
 
     public ChannelsPage(WebDriver driver){
         this.driver = driver;
         HtmlElementLoader.populatePageObject(this, driver);
+    }
+
+    @FindBy(xpath = "//div[@class='fr']/a")
+    public Button add_button;
+
+
+    public void goToChannels() {
+        driver.get(baseUrl + "/mng_new/tools/traffic_channels");
     }
     public void goToAddPage(){
         this.add_button.click();
